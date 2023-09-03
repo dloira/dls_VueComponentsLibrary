@@ -1,0 +1,9 @@
+version: '3.4'
+services:      
+  vue-components-application:
+    image: ${DOCKER_REGISTRY:-dls}/vue-components-application:${TAG:-latest}
+    build:
+      context: ../
+      dockerfile: dls_vue-components-application/Dockerfile
+    ports:
+      - "8080:8080"

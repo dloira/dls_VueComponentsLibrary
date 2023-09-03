@@ -1,0 +1,6 @@
+registry=http://localhost:8081/repository/npm-group/
+//localhost:8081/repository/npm-group/:_auth="YWRtaW46YWRtaW4xMjM="
+registry=http://localhost:8081/repository/npm-private/
+//localhost:8081/repository/npm-private/:_auth="YWRtaW46YWRtaW4xMjM="
+registry=http://localhost:8081/repository/npm-registry/
+//localhost:8081/repository/npm-registry/:_auth="YWRtaW46YWRtaW4xMjM="
