@@ -1,3 +1,6 @@
+export function SET_LANGUAGE(state, language) {
+  state.activeLanguage = language;
+}
 export function setSearchedMeals(state, meals) {
   state.searchedMeals = meals || []
 }

@@ -15,3 +15,4 @@ const app = createApp(App);
 app.use(router).use(store).use(dls_library).mount("#app");
 
 app.config.globalProperties.$filters = filters
+

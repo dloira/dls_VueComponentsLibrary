@@ -1,0 +1,20 @@
+{
+    "en": {
+      "toolbar_search_by_name": "By Name",
+      "toolbar_search_by_letter": "By Letter",
+      "toolbar_search_by_ingredient": "By Ingredient",
+      "view_home_title": "Trending Meals",
+      "view_search_by_name_title": "Search by Name",
+      "view_search_by_letter_title": "Search by Letter",
+      "view_search_by_ingredient_title": "Search by Ingredient"
+    },
+    "es": {
+      "toolbar_search_by_name": "Por Nombre",
+      "toolbar_search_by_letter": "Por Letra",
+      "toolbar_search_by_ingredient": "Por Ingrediente",
+      "view_home_title": "Platos Destacados",
+      "view_search_by_name_title": "Buscar por Nombre",
+      "view_search_by_letter_title": "Buscar por Letra",
+      "view_search_by_ingredient_title": "Burcar por Ingrediente"
+    }
+  }

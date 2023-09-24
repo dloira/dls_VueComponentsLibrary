@@ -1,5 +1,9 @@
 import axiosClient from '../axiosClient';
 
+export function setLanguage({ commit }, language) {
+  commit('SET_LANGUAGE', language);
+}
+
 export function searchMeals({ commit }, keyword) {
   axiosClient.get(`search.php?s=${keyword}`)
     .then(({ data }) => {

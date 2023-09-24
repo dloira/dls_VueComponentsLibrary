@@ -1,6 +1,6 @@
 <template>
   <div class="p-8 pb-0">
-    <h1 class="text-4xl font-bold mb-4 text-black-500">Search by Name</h1>
+    <h1 class="text-4xl font-bold mb-4 text-black-500">{{ $filters.translate('view_search_by_name_title') }}</h1>
   </div>
   <div class="px-8 pb-3">
     <input
